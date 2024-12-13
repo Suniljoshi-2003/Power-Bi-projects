@@ -91,7 +91,8 @@ Top Brand by Sales:
 
                       
 
-             📊 Mobile Sales Analysis Dashboard
+
+  📊 Mobile Sales Analysis Dashboard
   
 This repository contains an interactive Power BI dashboard designed for analyzing mobile sales data. The dashboard provides valuable insights into sales trends, customer behavior, and brand performance to enable data-driven decision-making.
 
