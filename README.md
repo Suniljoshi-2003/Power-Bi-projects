@@ -89,3 +89,50 @@ Top Brand by Sales:
   
                *******************************************************************************************************************************************************************
 
+                      
+
+    📊 Mobile Sales Analysis Dashboard
+This repository contains an interactive Power BI dashboard designed for analyzing mobile sales data. The dashboard provides valuable insights into sales trends, customer behavior, and brand performance to enable data-driven decision-making.
+
+🖼️ Dashboard Preview
+
+
+📈 Features
+Sales Overview: Displays total sales, transactions, and quantities sold.
+Monthly Sales Trends: Provides month-to-date (MTD) analysis and year-over-year comparisons.
+City-Wise Sales Analysis: Visualizes sales distribution across various cities.
+Payment Methods Insights: Tracks transactions by payment types (Debit Card, Credit Card, Cash).
+Customer Feedback Ratings: Breaks down customer satisfaction into Good, Average, and Poor ratings.
+Top Brands and Models: Highlights performance of leading mobile brands and models.
+📊 Use Cases
+This dashboard is ideal for:
+
+Sales Teams: To monitor performance and identify high-performing regions and products.
+Business Analysts: To analyze sales trends and customer preferences.
+Management: To make data-driven strategic decisions based on actionable insights.
+🛠️ Tools Used
+Power BI: For designing and building the interactive dashboard.
+Data Source: Simulated mobile sales data for analysis.
+📂 Repository Contents
+Dashboard File (.pbix): The Power BI file to explore and customize the dashboard.
+Screenshots: Visuals for quick reference and preview of the dashboard.
+README.md: Documentation for the project.
+🛠️ How to Use
+Clone or download this repository to your system.
+Open the .pbix file using Power BI Desktop.
+Interact with the filters, slicers, and visuals to explore data insights.
+🎯 Insights You Can Gain
+Identify top-performing cities and brands.
+Monitor sales growth trends across different time periods.
+Understand customer payment preferences.
+Track product performance and customer satisfaction levels.
+📢 Acknowledgment
+This project was created as part of my learning journey with the 30-Day Power BI Course by Satish Dhawale Sir on the Skill Course YouTube Channel. Thank you for the practical and detailed guidance! 🙏
+
+📬 Contact
+For queries or collaboration, feel free to connect:
+
+Email: [Suniljoshi6360@gmail.com]
+LinkedIn: [https://www.linkedin.com/in/suniljoshi2003]
+
+
